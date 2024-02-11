@@ -1,4 +1,0 @@
-/* 
-Interger Number 
-Floating point Number
-*/

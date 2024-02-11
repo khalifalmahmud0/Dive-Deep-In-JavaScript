@@ -1,3 +1,0 @@
-/*
-sotik kicu pacce na 
- */
