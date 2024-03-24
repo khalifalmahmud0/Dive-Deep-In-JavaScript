@@ -11,7 +11,7 @@ Data Type = 8 Types
             Object
 
 Data Type =  2 Types  
-            Primitive Data Type
+            Primitive Data Type / Primitive Type
                 Number 
                 Big Integer
                 String
@@ -19,7 +19,7 @@ Data Type =  2 Types
                 Null
                 Undefinbe
                 Symbol 
-            Non Primitive Data Type
+            Non Primitive Data Type / Referance Type
                 Object {} []
                 object {}
                 array []
